@@ -22,3 +22,5 @@
     </main>
 </body>
 </html>
+git add .
+git commit -m "コミットメッセージ"
